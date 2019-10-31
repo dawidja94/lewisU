@@ -1,0 +1,13 @@
+C:\Users\dawid\source\repos\HW4\HW4\obj\Debug\HW4.csprojAssemblyReference.cache
+C:\Users\dawid\source\repos\HW4\HW4\bin\Debug\HW4.exe.config
+C:\Users\dawid\source\repos\HW4\HW4\bin\Debug\HW4.exe
+C:\Users\dawid\source\repos\HW4\HW4\bin\Debug\HW4.pdb
+C:\Users\dawid\source\repos\HW4\HW4\obj\Debug\HW4.exe
+C:\Users\dawid\source\repos\HW4\HW4\obj\Debug\HW4.pdb
+C:\Users\dawid\Desktop\HW4\HW4\bin\Debug\HW4.exe.config
+C:\Users\dawid\Desktop\HW4\HW4\bin\Debug\HW4.exe
+C:\Users\dawid\Desktop\HW4\HW4\bin\Debug\HW4.pdb
+C:\Users\dawid\Desktop\HW4\HW4\obj\Debug\HW4.csprojAssemblyReference.cache
+C:\Users\dawid\Desktop\HW4\HW4\obj\Debug\HW4.csproj.CoreCompileInputs.cache
+C:\Users\dawid\Desktop\HW4\HW4\obj\Debug\HW4.exe
+C:\Users\dawid\Desktop\HW4\HW4\obj\Debug\HW4.pdb
